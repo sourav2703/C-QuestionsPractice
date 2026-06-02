@@ -44,7 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Operations\CheckPalindromString.cs" />
+    <Compile Include="Operations\Count occurrences of each character.cs" />
+    <Compile Include="Operations\Count occurrences of each word.cs" />
     <Compile Include="Operations\Count vowels and consonants.cs" />
+    <Compile Include="Operations\Find Duplicate Characters.cs" />
+    <Compile Include="Operations\Find Duplicate Words.cs" />
+    <Compile Include="Operations\Find first non-repeated character.cs" />
+    <Compile Include="Operations\Find first repeated character.cs" />
+    <Compile Include="Operations\Find the longest word in a sentence.cs" />
+    <Compile Include="Operations\Remove duplicate characters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Operations\ReverseStrings.cs" />

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|e:\\1interview_prepration\\c# coding practices with questions\\csharpcodingpracticewithquestions\\csharpcodingpracticewithquestions\\operations\\count vowels and consonants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|solutionrelative:csharpcodingpracticewithquestions\\operations\\count vowels and consonants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\csharpcodingpracticewithquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|solutionrelative:csharpcodingpracticewithquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|e:\\1interview_prepration\\c# coding practices with questions\\csharpcodingpracticewithquestions\\csharpcodingpracticewithquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|solutionrelative:csharpcodingpracticewithquestions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|e:\\1interview_prepration\\c# coding practices with questions\\csharpcodingpracticewithquestions\\csharpcodingpracticewithquestions\\operations\\find the longest word in a sentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4728B5-896E-4702-AF9A-C10989B3B915}|CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions.csproj|solutionrelative:csharpcodingpracticewithquestions\\operations\\find the longest word in a sentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Count vowels and consonants.cs",
-              "DocumentMoniker": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Operations\\Count vowels and consonants.cs",
-              "RelativeDocumentMoniker": "CSharpCodingPracticeWithQuestions\\Operations\\Count vowels and consonants.cs",
-              "ToolTip": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Operations\\Count vowels and consonants.cs",
-              "RelativeToolTip": "CSharpCodingPracticeWithQuestions\\Operations\\Count vowels and consonants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Find the longest word in a sentence.cs",
+              "DocumentMoniker": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Operations\\Find the longest word in a sentence.cs",
+              "RelativeDocumentMoniker": "CSharpCodingPracticeWithQuestions\\Operations\\Find the longest word in a sentence.cs",
+              "ToolTip": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Operations\\Find the longest word in a sentence.cs",
+              "RelativeToolTip": "CSharpCodingPracticeWithQuestions\\Operations\\Find the longest word in a sentence.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-02T11:09:40.761Z",
+              "WhenOpened": "2026-06-02T18:54:46.618Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Program.cs",
               "RelativeDocumentMoniker": "CSharpCodingPracticeWithQuestions\\Program.cs",
               "ToolTip": "E:\\1Interview_Prepration\\C# Coding Practices with Questions\\CSharpCodingPracticeWithQuestions\\CSharpCodingPracticeWithQuestions\\Program.cs",
               "RelativeToolTip": "CSharpCodingPracticeWithQuestions\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwBgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-02T10:20:18.068Z",
               "EditorCaption": ""
