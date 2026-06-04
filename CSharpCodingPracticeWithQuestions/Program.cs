@@ -1,4 +1,5 @@
 ﻿using CSharpCodingPracticeWithQuestions.Operations;
+using CSharpCodingPracticeWithQuestions.Operations.number;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -53,12 +54,39 @@ namespace CSharpCodingPracticeWithQuestions
             //Console.WriteLine(obj.findIt("whatisthis"));
             //Console.ReadLine();
 
-            var obj = new Find_the_longest_word_in_a_sentence();
-            Console.WriteLine(obj.findIt("I love programming in csharp"));
+            //var obj = new Find_the_longest_word_in_a_sentence();
+            //Console.WriteLine(obj.findIt("I love programming in csharp"));
+            //Console.ReadLine();
+
+            //var obj = new Find_largest_element();
+            //Console.WriteLine(obj.findit());
+            //Console.ReadLine();
+
+            //var obj = new Find_duplicate_elements();
+            //Console.WriteLine(obj.findit());
+            //Console.ReadLine();
+
+            //var obj = new Remove_duplicates_from_array();
+            //Console.WriteLine(obj.findit());
+            //Console.ReadLine();
+
+            //var obj = new Reverse_an_array();
+            //Console.WriteLine(obj.findit());
+            //Console.ReadLine();
+
+            //var obj = new Sort_array_without_built_in_methods();
+            //Console.WriteLine(obj.findit());
+            //Console.ReadLine();
+
+
+            var obj = new Print_Prime_Numbers_between_1_and_N();
+            Console.WriteLine(obj.findit());
             Console.ReadLine();
+            
+
+
+
+
         }
     }
-
-  
-        
 }

@@ -43,20 +43,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Operations\CheckPalindromString.cs" />
-    <Compile Include="Operations\Count occurrences of each character.cs" />
-    <Compile Include="Operations\Count occurrences of each word.cs" />
-    <Compile Include="Operations\Count vowels and consonants.cs" />
-    <Compile Include="Operations\Find Duplicate Characters.cs" />
-    <Compile Include="Operations\Find Duplicate Words.cs" />
-    <Compile Include="Operations\Find first non-repeated character.cs" />
-    <Compile Include="Operations\Find first repeated character.cs" />
-    <Compile Include="Operations\Find the longest word in a sentence.cs" />
-    <Compile Include="Operations\Remove duplicate characters.cs" />
+    <Compile Include="Operations\number\Check Prime Number.cs" />
+    <Compile Include="Operations\number\Find duplicate elements.cs" />
+    <Compile Include="Operations\number\Find largest element.cs" />
+    <Compile Include="Operations\number\Find second largest element.cs" />
+    <Compile Include="Operations\number\Find second smallest element.cs" />
+    <Compile Include="Operations\number\Find smallest element.cs" />
+    <Compile Include="Operations\number\Print Prime Numbers between 1 and N.cs" />
+    <Compile Include="Operations\number\Remove duplicates from array.cs" />
+    <Compile Include="Operations\number\Reverse an array.cs" />
+    <Compile Include="Operations\number\Sort array without built-in methods.cs" />
+    <Compile Include="Operations\string\CheckPalindromString.cs" />
+    <Compile Include="Operations\string\Count occurrences of each character.cs" />
+    <Compile Include="Operations\string\Count occurrences of each word.cs" />
+    <Compile Include="Operations\string\Count vowels and consonants.cs" />
+    <Compile Include="Operations\string\Find Duplicate Characters.cs" />
+    <Compile Include="Operations\string\Find Duplicate Words.cs" />
+    <Compile Include="Operations\string\Find first non-repeated character.cs" />
+    <Compile Include="Operations\string\Find first repeated character.cs" />
+    <Compile Include="Operations\string\Find the longest word in a sentence.cs" />
+    <Compile Include="Operations\string\Remove duplicate characters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Operations\ReverseStrings.cs" />
-    <Compile Include="Operations\ReverseWords.cs" />
+    <Compile Include="Operations\string\ReverseStrings.cs" />
+    <Compile Include="Operations\string\ReverseWords.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
